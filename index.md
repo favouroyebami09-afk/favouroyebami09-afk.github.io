@@ -12,6 +12,6 @@
   * [2025-11-18-Git-Branches](Git/2025-11-18-Git-Branches.md)
  
 
-## Netowrking Fundamentals 
+## Networking Fundamentals 
 
   * [2025-12-29-Networking-Fundamentals](Git/2025-12-29-Networking-Fundamentals.md)
