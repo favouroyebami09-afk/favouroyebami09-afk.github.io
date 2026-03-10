@@ -1,7 +1,4 @@
 <h1> Varaibles: Shell Scripting Part 2 </h1>
-
-<h3> Variables </h3>
-```console 
 Variables: used to store data and can be referenced later
 similar to variables in general programming languages 
 
@@ -18,7 +15,6 @@ SYS_LOG="system.log"
 
 LOG_DIR=variable name 
 Variables are noted by $LOG_DIR
-```
 
 <h3> Arrays </h3>
 
